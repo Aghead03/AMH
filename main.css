@@ -43,7 +43,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(/iamges/istockphoto-1408605259-612x612.png) no-repeat;
+    background: url(iamges/istockphoto-1408605259-612x612.png) no-repeat;
     background-size: cover;
     color: rgb(159 21 21);
     background-attachment: fixed;
